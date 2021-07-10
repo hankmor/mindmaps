@@ -1,37 +1,23 @@
-# it-mindmap
+### 介绍
 
-#### 介绍
-技术思维导图搜集、整理，主要囊括互联网技术导图，包括java基础、spring框架、mybatis框架、技术架构、微信、小程序等。
+技术思维导图搜集、整理，主要囊括互联网技术导图，包括Java、spring框架、Spring Boot、Spring Cloud、MyBatis框架、MySQL、MQ、技术架构、前端技术、面试题目等等，并在不断增加更多优质的技术导图。
 
-#### 软件架构
-软件架构说明
+### 使用说明
 
+1. 后缀为xmind格式的文件需要使用 [XMind](https://www.xmind.cn/) 软件打开
+2. 后缀为mmap格式的文件需要使用 [MindManager](https://www.mindmanager.cn/) 软件打开
+3. 部分导图为图片截图，格式一般为png，可直接用看图软件打开
+4. 使用到的思维导图软件可在 [这里](http://www.koobyte.com/categories/tool/) 搜索下载
 
-#### 安装教程
+### 参与贡献
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+欢迎将您整理的思维导图分享出来，您可以：
 
-#### 使用说明
+* 使用 [Pull Request](https://github.com/belonk/mindmaps/pulls) 提交
+* 建议使用主流的思维导图软件格式文件，如：Xmind、MindManger、MindMaster等，如果您使用的其他软件，请一并提交软件下载地址
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+贡献者名单: https://github.com/belonk/mindmaps/graphs/contributors
 
-#### 参与贡献
+欢迎关注微信公众号，获取更多技术分享：
 
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
-
-
-#### 码云特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  码云官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解码云上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是码云最有价值开源项目，是码云综合评定出的优秀开源项目
-5.  码云官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  码云封面人物是一档用来展示码云会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+![微信公众号](./wx.png)
