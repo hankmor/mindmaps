@@ -20,4 +20,4 @@
 
 欢迎关注微信公众号，获取更多技术分享：
 
-![微信公众号](./wx.png)
+![微信公众号](http://www.koobyte.com/images/weixinqr.jpg)
