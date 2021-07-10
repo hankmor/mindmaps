@@ -32,3 +32,4 @@ build/
 *.bak_*
 *.lck
 *Autosaved*
+*.~$lock
